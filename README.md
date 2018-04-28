@@ -27,7 +27,7 @@ Then, on your phone or tablet browse for `http://your-local-ip:3000`. You should
 
 ![remote-control](http://cdn.corentin-thomasset.fr/img-divers/remote-control/1.png)
 
-Just press a button and you will be asked for a password. By default the password is `azerty`, you can change it by modifying the first line of the `index.js` ([here]()).
+Just press a button and you will be asked for a password. By default the password is `azerty`, you can change it by modifying the first line of the `index.js` ([here](https://github.com/CorentinTh/pc-remote-control/blob/master/index.js#L4)).
 
 ``` javascript
 // index.js
@@ -49,7 +49,7 @@ You may have the following user feedback:
 
 ## Compatibility
 
-Since I created this application for my windows laptop, I did not test every platform. Feel free to contribute! Just complete the command lines [here]().
+Since I created this application for my windows laptop, I did not test every platform. Feel free to contribute! Just complete the command lines [here](https://github.com/CorentinTh/pc-remote-control/blob/master/pc-controls.js#L10).
 
 |              |       **Windows**      |            **Linux**           |             **OSx**            |
 |:------------:|:----------------------:|:------------------------------:|:------------------------------:|
